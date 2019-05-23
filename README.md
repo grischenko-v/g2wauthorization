@@ -6,7 +6,7 @@ Can be used for getting access tokens for registration users to webinars.
 `npm install gotowebinarauthorization`
 ### Example
 ```
-var G2W = require('./ndoe.js');
+var G2W = require('gotowebinarauthorization');
 
 var appConfig = {
   consumerKey: 'You consumer key',
