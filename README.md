@@ -3,7 +3,7 @@ Module that simplify authorization in GoToWebinar servise.
 Can be used for getting access tokens for registration users to webinars.
 
 ### Usedge
-`npm install `
+`npm install gotowebinarauthorization`
 ### Example
 ```
 var G2W = require('./ndoe.js');
