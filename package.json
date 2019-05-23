@@ -1,0 +1,16 @@
+{
+  "name": "gotowebinarauthorization",
+  "version": "1.0.0",
+  "description": "The node module that simplify authorization in go to webinar service. Returns access_token, refresh_token and other data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "G2W",
+    "GoToWebinar",
+    "gotowebinar"
+  ],
+  "author": "V.Grishchenko",
+  "license": "ISC"
+}
