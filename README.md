@@ -14,8 +14,8 @@ var appConfig = {
   };
 
 var accountConfig = {
-  username: 'USER NAME',
-  password: 'password',
+  username: USER NAME,
+  password: PASSWORD,
   grant_type: 'password'
 };
 
