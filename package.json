@@ -1,15 +1,20 @@
 {
   "name": "gotowebinarauthorization",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The node module that simplify authorization in go to webinar service. Returns access_token, refresh_token and other data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+    "repository": {
+    "type" : "git",
+    "url" : "https://github.com/grischenko-v/g2wauthorization"
+  },
   "keywords": [
     "G2W",
     "GoToWebinar",
-    "gotowebinar"
+    "gotowebinar",
+    "Go to webinar authorization"
   ],
   "author": "V.Grishchenko",
   "license": "ISC",
