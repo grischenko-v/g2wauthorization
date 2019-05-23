@@ -1,5 +1,5 @@
-var request = require('request');
-var https = require('https');
+const request = require('request');
+const https = require('https');
 const querystring = require('querystring');
 
 module.exports = function GTWAuthtization(appConfig, accountConfig, callback) {
