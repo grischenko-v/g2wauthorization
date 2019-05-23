@@ -32,4 +32,4 @@ function callback(body) {
   // "organizer_key":"241402"}
 } 
 
-G2W(appConfig, accountConfig, callback);`
+G2W.directLogin(appConfig, accountConfig, callback);`
