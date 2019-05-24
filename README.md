@@ -2,7 +2,7 @@
 Module that simplify authorization in GoToWebinar servise.
 Can be used for getting access tokens for registration users to webinars.
 
-### Usedge
+### Usage
 `npm install gotowebinarauthorization`
 ### Example
 
